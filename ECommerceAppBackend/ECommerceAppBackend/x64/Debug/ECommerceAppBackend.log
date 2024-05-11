@@ -1,0 +1,19 @@
+﻿  ECommerceAppBackend.cpp
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\Loading_Page.h(25,14): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'ECommerceAppBackend.cpp')
+  
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\Password_Vali_Asterisk.h(369,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ECommerceAppBackend.cpp')
+  
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1162,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1163,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1164,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1165,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1166,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1167,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1168,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1169,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ECommerceAppBackend\ECommerceAppBackend\ECommerceAppBackend.cpp(1170,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ECommerceAppBackend.vcxproj -> C:\Users\Administrator\source\repos\ECommerceAppBackend\x64\Debug\ECommerceAppBackend.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
